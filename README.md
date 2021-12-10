@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-<div align="center">
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YouKnow-sys&repo=github-readme-stats)](https://github.com/YouKnow-sys/github-readme-stats)
- </div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YouKnow-sys)](https://github.com/anuraghazra/github-readme-stats)
   
 ##
 
